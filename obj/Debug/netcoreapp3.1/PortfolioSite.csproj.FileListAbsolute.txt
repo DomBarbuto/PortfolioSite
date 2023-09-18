@@ -1,6 +1,0 @@
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.AssemblyReference.cache
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfoInputs.cache
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfo.cs
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.CoreCompileInputs.cache
-C:\Users\domba\OneDrive - Full Sail University\Portfolio\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.MvcApplicationPartsAssemblyInfo.cache
